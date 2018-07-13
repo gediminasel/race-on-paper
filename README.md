@@ -11,3 +11,5 @@ Turi 6 sekundes atlikti ėjimą.
 Jei atsitrenksi į kliūtį (juoda spalva) arba žaidimo lauko kraštą, tai prarasi savo greitį ir atsirasi prieš atsitrenkiant pravažiuotame langelyje.
 
 Laimi pirmas, sustojęs raudonai apvestame kvadratėlyje.
+
+Be atsisiuntimo: https://race-on-paper--gediminaslelesius.repl.co/
