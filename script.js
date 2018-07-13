@@ -191,7 +191,7 @@ function drawControl() {
         controlGraphics.text("Player " + (turn + 1).toString() + " turn", 10, 20);
         controlGraphics.text(turnTimeLeft().toFixed(2), 150, 20);
     } else if (state === DRAW_BOARD) {
-        controlGraphics.text("R - generate random board, A - change pencil color, C - clear the board, draw with the mouse.", 10, 20);
+        controlGraphics.text("Draw with the mouse. R - generate random board, A - change pencil color, C - clear the board, SPACE - continue.", 10, 20);
         controlGraphics.fill(drawColor * 255);
         controlGraphics.rect(10, 30, 10, 10);
     }
